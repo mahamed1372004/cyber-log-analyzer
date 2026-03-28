@@ -1,0 +1,17 @@
+=== Security Report ===
+
+IP: 192.168.1.5
+Requests: 6
+Status: Brute Force Attack
+Risk: HIGH
+-----------------------
+IP: 10.0.0.2
+Requests: 4
+Status: Scanning Attack
+Risk: MEDIUM
+-----------------------
+IP: 8.8.8.8
+Requests: 1
+Status: Normal Activity
+Risk: LOW
+-----------------------
